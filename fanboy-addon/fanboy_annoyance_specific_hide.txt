@@ -171,6 +171,7 @@ xhaccess.com,xhamster.com,xhamster.desi##.creator-promo-bg
 timesofisrael.com##.crm-post-module
 upqode.com##.cursore-uq
 emails-checker.net##.custom-social-proof
+github.com##.dashboard-changelog
 datacamp.com##.dc-ps-banner-wrapper
 neowin.net##.deals
 slashdot.org##.deals-footer
@@ -1216,7 +1217,6 @@ chatgpt.com#?#.fixed.bottom-0:has-text(Try Atlas)
 claude.ai#?#.border-border-200:has-text(Try Claude Desktop now)
 dailysignal.com#?#.tds-content > p:has-text(Donate now)
 ftm.eu#?#.trust-nugget-pp:has-text(Our journalism)
-github.com#?#.dashboard-changelog:has-text(Latest from our changelog)
 kayak.com#?#.c9h3U:has-text(Share feedback)
 laravel-news.com#?#.mt-10:has-text(Laravel Jobs)
 navylookout.com#?#.wp-block-template-part:has-text(Support us)
